@@ -40,7 +40,7 @@ If you'd like to explore or run the notebooks:
 
 1. **Clone the repo**:
    ```bash
-   git clone https://github.com/dosqas/r2p-quantum-qiskit-exploration.git
+   git clone https://github.com/sebsop/r2p-quantum-qiskit-exploration.git
    ```
 
 2. **Create a virtual environment** (optional but recommended):
